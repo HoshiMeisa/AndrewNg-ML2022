@@ -1,4 +1,4 @@
- implement	v.实施
+implement	v.实施
 
 variable	n.变量
 
