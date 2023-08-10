@@ -59,4 +59,3 @@ threshold	n.门槛，阈，界
 vector	n.矢量，向量
 
 convention	n.习俗，惯例
-
